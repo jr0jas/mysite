@@ -1,0 +1,26 @@
+.cmp-customtitle {
+    
+    &__text {
+        color: #696969;
+    }
+    
+    &__align--left {
+        text-align: left;
+    }
+    
+    &__align__center {
+        text-align: center;
+    }
+    
+    &__align__right {
+        text-align: right;
+    }
+    
+    .title-lg-margin {
+        margin: 1rem * .5 auto;
+    }
+}
+
+
+
+
